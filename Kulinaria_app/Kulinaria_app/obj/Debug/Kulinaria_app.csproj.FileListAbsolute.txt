@@ -1,0 +1,10 @@
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\bin\Debug\Kulinaria_app.exe.config
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\bin\Debug\Kulinaria_app.exe
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\bin\Debug\Kulinaria_app.pdb
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.Form1.resources
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.Properties.Resources.resources
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.csproj.GenerateResource.cache
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.exe
+C:\Users\Den\source\repos\Kulinaria_app\Kulinaria_app\obj\Debug\Kulinaria_app.pdb
